@@ -1,0 +1,5 @@
+## Interface: 30400
+## Title: Lithp
+## SavedVariablesPerCharacter: LithpDb
+
+Lithp.xml
